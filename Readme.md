@@ -133,8 +133,12 @@ Cash Management Project/
 
 
 ---
+💡 Feedback Welcome
+
+I am continuously learning and would greatly appreciate any suggestions to help me improve this project.
 
 ## 👤 Author  
 **Nandnee Patel – QA Analyst**
+
 
 This project is part of my QA learning portfolio and demonstrates real-world QA practices including manual test design, automation maintenance, SQL testing, and Agile documentation.
